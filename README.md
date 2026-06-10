@@ -73,4 +73,4 @@ jupyter notebook Data_mining_Project_Book_clients.ipynb
 
 ## 📄 License
 
-© 2024 Sayedani-29. All rights reserved. This project and its contents may not be reproduced, distributed, or used without explicit permission from the author.
+***© 2024 Sayedani-29. All rights reserved. This project and its contents may not be reproduced, distributed, or used without explicit permission from the author.***
